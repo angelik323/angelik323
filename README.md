@@ -19,12 +19,7 @@ Here are some ideas to get you started:
   
 <p align="center"><img src="https://komarev.com/ghpvc/?username=angelik323&label=Visitas&color=0e75b6&style=for-the-badge" alt="angelik323"/></p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=angelik323-ma&theme=algolia"/>
-
-
-  
-</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=gatekoneko141&label=Visitas&color=0e75b6&style=for-the-badge" alt="gatekoneko141"/></p>
 
 
 <h3 align="center">Lenguajes y Herramientas</h3>  
