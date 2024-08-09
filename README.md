@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, soy John Rodríguez</h1>  
+<h1 align="center">Hola👋, soy Angélica María Loaiza Loaiza</h1>  
 <h3 align="center">Desarrollador UI/UX</h3>  
 
 <!--
