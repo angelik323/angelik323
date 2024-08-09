@@ -19,7 +19,9 @@ Here are some ideas to get you started:
   
 <p align="center"><img src="https://komarev.com/ghpvc/?username=angelik323&label=Visitas&color=0e75b6&style=for-the-badge" alt="angelik323"/></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=gatekoneko141&label=Visitas&color=0e75b6&style=for-the-badge" alt="gatekoneko141"/></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=angelik323&title=Commits,Stars,Followers,Repositories,PullRequest&no-bg=true&margin-w=15&margin-h=15&theme=tokyonight&row=2&column=5"/>
+</p>
 
 
 <h3 align="center">Lenguajes y Herramientas</h3>  
