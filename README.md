@@ -1,4 +1,5 @@
 <h1 align="center">Hola👋, soy Angélica María Loaiza Loaiza</h1>  
+<h3 align="center">Ingeniera de Sistemas y Computación</h3>
 <h3 align="center">Desarrolladora UI/UX</h3>  
 
 <!--
